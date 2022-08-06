@@ -1,7 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-
-
+> To create multivariate model for BoomBikes that help them to understand how exactly the demands vary with different features for shared bikes.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
